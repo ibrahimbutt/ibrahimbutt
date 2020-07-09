@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on projects that make lives easier, whether it's through developer tools, productivity tools, or applications that solve a problem really well.
 - 🤔 I’m looking for help with production grade security.
 - 💬 Ask me about anything related to full-stack development, and becoming a developer.
-- 📫 How to reach me: you can leave an issue or get me on twitter at [madebyibrahim](www.twitter.com/madebyibrahim)
+- 📫 How to reach me: you can leave an issue or get me on twitter at [madebyibrahim](https://www.twitter.com/madebyibrahim)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My cousin almost shot me (accidentally, I should add) with an AK-47. Good times.
--->
